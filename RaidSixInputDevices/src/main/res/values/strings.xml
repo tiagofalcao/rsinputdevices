@@ -1,3 +1,101 @@
 <resources>
-    <string name="app_name">Raid Six Input Devices</string>
+    <string name="app_name">RaidSix Input Devices</string>
+
+    <!-- Used to describe the set of all built-in layouts in the UI. [CHAR LIMIT=35] -->
+    <string name="keyboard_layouts_label">RaidSix Keyboard Layout</string>
+
+
+
+    <!-- Armenian Eastern keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_armenian_eastern_label">Armenian Eastern</string>
+
+    <!-- Belgian keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_belgian">Belgian</string>
+
+    <!-- Bulgarian keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_bulgarian">Bulgarian</string>
+
+    <!-- Croatian keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_croatian">Croatian</string>
+
+    <!-- Czech keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_czech">Czech</string>
+
+    <!-- Danish keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_danish">Danish</string>
+
+    <!-- UK English keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_english_uk_label">English (UK)</string>
+
+    <!-- US English keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_english_us_label">English (US)</string>
+
+    <!-- US English (Colemak style) keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_english_us_colemak_label">English (US), Colemak style</string>
+
+    <!-- US English (Dvorak style) keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_english_us_dvorak_label">English (US), Dvorak style</string>
+
+    <!-- Estonian keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_estonian">Estonian</string>
+
+    <!-- Finnish keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_finnish">Finnish</string>
+
+    <!-- French keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_french_label">French</string>
+
+    <!-- Canadian French keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_french_ca_label">French (Canada)</string>
+
+    <!-- German keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_german_label">German</string>
+
+    <!-- Hungarian keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_hungarian">Hungarian</string>
+
+    <!-- Icelandic keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_icelandic">Icelandic</string>
+
+    <!-- Italian keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_italian">Italian</string>
+
+    <!-- Norwegian keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_norwegian">Norwegian</string>
+
+    <!-- Polish (Programmers) keyboard layout label. [CHAR LIMIT=35]  -->
+    <string name="keyboard_layout_polish_programmers_label">Polish (Programmers)</string>
+
+    <!-- Portuguese keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_portuguese">Portuguese</string>
+
+    <!-- Russian keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_russian_label">Russian</string>
+
+    <!-- Russian (Mac style) keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_russian_mac_label">Russian, Mac style</string>
+
+    <!-- Slovak keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_slovak">Slovak</string>
+
+    <!-- Slovenian keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_slovenian">Slovenian</string>
+
+    <!-- Spanish keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_spanish_label">Spanish</string>
+
+    <!-- Swedish keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_swedish">Swedish</string>
+
+    <!-- Swiss French keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_swiss_french_label">Swiss French</string>
+
+    <!-- Swiss German keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_swiss_german_label">Swiss German</string>
+
+    <!-- Turkish keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_turkish">Turkish</string>
+
+    <!-- Ukrainian keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_ukrainian">Ukrainian</string>
 </resources>
