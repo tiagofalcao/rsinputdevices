@@ -10,6 +10,10 @@
         android:label="@string/keyboard_layout_belgian"
         android:keyboardLayout="@raw/keyboard_layout_belgian" />
 
+    <keyboard-layout android:name="keyboard_layout_brazilian"
+        android:label="@string/keyboard_layout_brazilian"
+        android:keyboardLayout="@raw/keyboard_layout_brazilian"/>
+
     <keyboard-layout android:name="keyboard_layout_bulgarian"
         android:label="@string/keyboard_layout_bulgarian"
         android:keyboardLayout="@raw/keyboard_layout_bulgarian" />
@@ -33,6 +37,10 @@
     <keyboard-layout android:name="keyboard_layout_english_us"
         android:label="@string/keyboard_layout_english_us_label"
         android:keyboardLayout="@raw/keyboard_layout_english_us" />
+
+    <keyboard-layout android:name="keyboard_layout_english_us_intl"
+        android:label="@string/keyboard_layout_english_us_intl"
+        android:keyboardLayout="@raw/keyboard_layout_english_us_intl"/>
 
     <keyboard-layout android:name="keyboard_layout_english_us_colemak"
         android:label="@string/keyboard_layout_english_us_colemak_label"
@@ -61,6 +69,10 @@
     <keyboard-layout android:name="keyboard_layout_german"
         android:label="@string/keyboard_layout_german_label"
         android:keyboardLayout="@raw/keyboard_layout_german" />
+
+    <keyboard-layout android:name="keyboard_layout_greek"
+        android:label="@string/keyboard_layout_greek_label"
+        android:keyboardLayout="@raw/keyboard_layout_greek" />
 
     <keyboard-layout android:name="keyboard_layout_hungarian"
         android:label="@string/keyboard_layout_hungarian"
