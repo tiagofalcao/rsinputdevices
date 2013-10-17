@@ -24,6 +24,9 @@
     <!-- Czech keyboard layout label. [CHAR LIMIT=35] -->
     <string name="keyboard_layout_czech">Czech</string>
 
+    <!-- Czech keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_czech_qwertz">Czech (QWERTZ)</string>
+
     <!-- Danish keyboard layout label. [CHAR LIMIT=35] -->
     <string name="keyboard_layout_danish">Danish</string>
 
