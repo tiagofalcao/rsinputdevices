@@ -114,6 +114,10 @@
         android:label="@string/keyboard_layout_slovak"
         android:keyboardLayout="@raw/keyboard_layout_slovak" />
 
+    <keyboard-layout android:name="keyboard_layout_slovak_qwertz"
+        android:label="@string/keyboard_layout_slovak_qwertz"
+        android:keyboardLayout="@raw/keyboard_layout_slovak_qwertz" />
+
     <keyboard-layout android:name="keyboard_layout_slovenian"
         android:label="@string/keyboard_layout_slovenian"
         android:keyboardLayout="@raw/keyboard_layout_croatian_and_slovenian" />
