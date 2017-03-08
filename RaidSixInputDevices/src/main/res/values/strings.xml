@@ -90,6 +90,9 @@
     <!-- Slovak keyboard layout label. [CHAR LIMIT=35] -->
     <string name="keyboard_layout_slovak">Slovak</string>
 
+    <!-- Slovak keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_slovak_qwertz">Slovak (QWERTZ)</string>
+
     <!-- Slovenian keyboard layout label. [CHAR LIMIT=35] -->
     <string name="keyboard_layout_slovenian">Slovenian</string>
 
