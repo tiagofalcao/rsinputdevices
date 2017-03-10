@@ -18,6 +18,9 @@
     <!-- Bulgarian keyboard layout label. [CHAR LIMIT=35] -->
     <string name="keyboard_layout_bulgarian">Búlgaro</string>
 
+    <!-- Bulgarian Phonetic keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_bulgarian_phonetic">Búlgaro Fonético</string>
+
     <!-- Croatian keyboard layout label. [CHAR LIMIT=35] -->
     <string name="keyboard_layout_croatian">Croata</string>
 

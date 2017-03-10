@@ -18,6 +18,10 @@
         android:label="@string/keyboard_layout_bulgarian"
         android:keyboardLayout="@raw/keyboard_layout_bulgarian" />
 
+    <keyboard-layout android:name="keyboard_layout_bulgarian_phonetic"
+        android:label="@string/keyboard_layout_bulgarian_phonetic"
+        android:keyboardLayout="@raw/keyboard_layout_bulgarian_phonetic" />
+
     <keyboard-layout android:name="keyboard_layout_croatian"
         android:label="@string/keyboard_layout_croatian"
         android:keyboardLayout="@raw/keyboard_layout_croatian_and_slovenian" />
